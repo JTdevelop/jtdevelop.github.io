@@ -3,14 +3,14 @@
 
 ### This is the profile for Justin Torrez
 
-Justin Torrez is a Junior Software Developer residing in New Mexico, U.S.A. 
+I am a Software Developer, Writer, Actor, Musician, and Martial Artist residing in New Mexico, U.S.A. 
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+#### Recent projects and lectures
 
 - Bulleted
 - List
@@ -20,7 +20,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](www.justintorrez.com) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
