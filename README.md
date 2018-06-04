@@ -3,7 +3,7 @@
 
 ### This is the profile for Justin Torrez
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Justin Torrez is a Junior Software Developer residing in New Mexico, U.S.A. 
 
 ```markdown
 Syntax highlighted code block
